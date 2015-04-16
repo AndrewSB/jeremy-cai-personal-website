@@ -1,5 +1,5 @@
 @media(min-width:992px) {
-	.title-section {
-		padding-top: 25px;
+	#title-section {
+		margin-top: 40px;
 	}
 }
