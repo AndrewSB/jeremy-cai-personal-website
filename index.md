@@ -6,7 +6,7 @@ layout: index
 	<h1><strong>Jeremy Cai</strong></h1>
 	<h3>currently working currently.</h3>
 	<div class="row">
-		<div class="col-md-4">
+		<div class="col-md-4 title-section">
 			<h3><strong>work</strong><h3>
 			<a href="https://www.linkedin.com/in/jeremyhcai" target="_blank">linkedin</a>
 			<br>
@@ -14,7 +14,7 @@ layout: index
 			<br>
 			<a href="mailto:jjeremycai@gmail.com" target="_blank">email</a>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 title-section">
 			<h3><strong>life</strong><h3>
 			<a href="https://www.facebook.com/JeremyHCai" target="_blank">facebook</a>
 			<br>
@@ -25,7 +25,7 @@ layout: index
 			<br>
 			<a href="https://medium.com/@Cai/how-to-have-a-phenomenal-first-year-in-college-7b327ecb1aac" target="_blank">Advice for Freshmen</a>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 title-section">
 			<h3><strong>play</strong><h3>
 			<a href="https://instagram.com/jjeremycai/" target="_blank">instagram</a>
 			<br>
