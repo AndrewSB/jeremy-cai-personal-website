@@ -1,4 +1,8 @@
 @media(min-width:992px) {
+	html {
+		background-color: red;
+	}
+	
 	.title-section {
 		margin-top: 40px;
 	}
