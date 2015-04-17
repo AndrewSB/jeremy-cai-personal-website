@@ -2,7 +2,7 @@
 layout: index
 ---
 
-#The Layer Economy
+#Hiring the Other Half: Tech for the Modern Workforce 
 
 **Disclosure: I am a co-founder at [OnboardIQ](https://www.onboardiq.com/), a dashboard built for operations teams to screen and scale workforces**
 
