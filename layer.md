@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: layer
 ---
 #Hiring the Other Half: Tech for the Modern Workforce 
 
