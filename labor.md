@@ -1,5 +1,5 @@
 ---
-layout: layer
+layout: labor
 ---
 #Hiring the Other Half: Tech for the Modern Workforce 
 
@@ -15,10 +15,6 @@ Many of us work in tech and product, and aren’t aware of ongoing changes in th
 #### Labor is following the path of cloud computing.
 34-36% of the American workforce now consists of freelancers, including temps, moonlighters and independent contractors, and expected to hit 40% by 2020 ([McKinsey](http://www.mckinsey.com/insights/economic_studies/talent_tensions_ahead_a_ceo_briefing), [Intuit](http://http-download.intuit.com/http.intuit/CMO/intuit/futureofsmallbusiness/intuit_2020_report.pdf)). Work is shifting towards decentralization and a model of inputs (worker acquisition cost minus worker churn) and outputs (unit economics of profitability dependent on underlying business model). This is perhaps most apparent in San Francisco, a city caught amid the rapid rise of on-demand service startups co-existing with (and looking to disrupt) traditional counterparts - that being said, this is a global phenomenon. In this cross-section of old and new labor, there are several key trends:
 
-
-
-
-
 #### Service providers have the power.
 The workforce is now truly independent and company-agnostic. Columnists often like to disassociate service providers in the on-demand economy and traditional enterprises, speaking as if they were two distinct types of workers. The reality is far more complex and dynamic:
 
@@ -30,8 +26,6 @@ The workforce is now truly independent and company-agnostic. Columnists often li
 
 * Labor is _indifferent._ The fate of on-demand players like Uber and traditional giants are now intertwined. Standardizing best practices like legality of worker classification, salaries, shift scheduling, etc. is not an “new startup scaling” or “enterprise supply-side” problem anymore, it affects both in a huge way. Postmates will not replace McDonald’s. But Postmates has a lot to gain in working with McDonald’s, and vice versa - [big and small companies are taking notice](https://docs.google.com/spreadsheet/ccc?key=0AmxJ5rcSaQq5dDMtTkdwTTdEeXMxRW11NGpIZ3VHYUE&usp=drivesdk#gid=0).
 
-
-
 #### New challenges from the shifting labor marketplace.
 These problems are not limited in scope to the on-demand economy affect all parties.
 
@@ -39,13 +33,13 @@ These problems are not limited in scope to the on-demand economy affect all part
 
 * _Churn_ - workforce attrition at all levels of the funnel (1 week after starting, 4 weeks after first job, etc) is shooting through the roof. The American workforce now has a huge number of great companies to work for with similar jobs with increasing bait packages should they switch. There are two proven methods of beating churn, and one solution that isn’t quite obvious:
 
- 1. [Proven] _Engagement:_ there are only four mediums - calls, emails, texts, push notifications - to progressively engage and retain workers on a mass scale. Companies have become smart about this, using certain language catered towards certain cohorts (i.e. "cleaners who haven’t worked a job in the past 10 days”). This is unsustainable, though, as eventually multichannel mass engagement still faces the problem of diminishing marginal returns. And so, companies begin to rely on…
- 2. [Proven] _Increasing compensation:_ there are multiple ways to provide increased incentives for workers to stay at a company. Teams can provide packages unique to that company (Uber and Lyft both do this well), find ways to organize and simplify 1099 forms for contractors, or simply increase the base wage.
- 3. [Unproductized] _Business intelligence_ - this is the most powerful and most difficult way to retain a worker. Instead of actively focusing on retaining workers after they have been onboarded, companies should focus their time on predictively knowing right away from an application, thus saving money, team morale, and, most importantly, time.
+1.	[Proven] _Engagement:_ there are only four mediums - calls, emails, texts, push notifications - to progressively engage and retain workers on a mass scale. Companies have become smart about this, using certain language catered towards certain cohorts (i.e. "cleaners who haven’t worked a job in the past 10 days”). This is unsustainable, though, as eventually multichannel mass engagement still faces the problem of diminishing marginal returns. And so, companies begin to rely on…
+
+2.	[Proven] _Increasing compensation:_ there are multiple ways to provide increased incentives for workers to stay at a company. Teams can provide packages unique to that company (Uber and Lyft both do this well), find ways to organize and simplify 1099 forms for contractors, or simply increase the base wage.
+
+3.	[Unproductized] _Business intelligence_ - this is the most powerful and most difficult way to retain a worker. Instead of actively focusing on retaining workers after they have been onboarded, companies should focus their time on predictively knowing right away from an application, thus saving money, team morale, and, most importantly, time.
 
 * _Legal Liabilities_ - every company that is scaling their workforce of contractors across cities will be hit with a legal issue. Yes, every single one. It’s not a question of if a lawsuit may come, but when it comes. And when it does, how do these companies best prepare for that legal battle? The answer is in being proactive instead of retroactive through careful language and wording of contractor “onboarding” and “hiring” practices. 1099 laws are changing and shift from state to state, but the best practices are in being careful with and standardizing all company communications (whether from a GM or ops associate) used to communicate with contractors. For instance, legally-compliant operations teams never say they outright “hired” a contractor, or provided any “training” in any capacity.
-
-
 
 #### A story of mismatched and outdated solutions
 Companies currently either build an expensive solution in-house and maintain it, or be faced with hiring by hand. Imagine receiving hundreds of applications a week, having to manually send documents and background checks one-by-one, let alone scheduling interviews.
@@ -58,7 +52,6 @@ This is the key difference: operational workforces are hired by cohorts, corpora
 
 * _Outsourced / Manual solutions:_ Doesn’t scale. Unit economics don’t make sense. Operations should be in these businesses’ core competencies, and need flexible processes that scale with growth
 
-
 #### Software is emerging to take on operations
 A lot of ex-Uber/Lyft/on-demand startup employees go on to start their own companies in this space.
 
@@ -69,6 +62,7 @@ There is a lot of room for new players in this space. While HR SaaS is never sex
 As unbiased as I can be (and in no particular order), this is the current on-demand / modern workforce landscape:
 
 **Sourcing**
+
 * _Communities:_ [Groove](http://www.movewithgroove.com/), [Peers](http://www.peers.org), [Workpop](http://www.peers.org/), [Kungfu](http://kungfu.co/)
 * _Listings:_ [Craigslist](http://sfbay.craigslist.org/), [HigherMe](http://www.higherme.com/), [Indeed](http://www.indeed.com/)
 * _Training:_ [Wonolo](http://wonolo.com/), [HireReady](http://www.gethireready.com/)
@@ -80,13 +74,12 @@ As unbiased as I can be (and in no particular order), this is the current on-dem
 * _Document Signing:_ [HelloSign](https://www.hellosign.com/api/pricing?coupon_code=onboardiq), [DocuSign](https://www.docusign.com/)
 
 **Management**
+
 - _Fulfillment:_ [Trackin](http://trackin.co/), [Onfleet](https://onfleet.com/), [Dispatch](http://www.dispatch.me/)
 - _Scheduling:_ [ShiftPlanning](https://www.shiftplanning.com/), [Staffjoy](https://www.staffjoy.com/), [When I Work](http://wheniwork.com/)
 - _Finances:_ [Tiempo](http://tiempoapp.com/), [Zen99](https://tryzen99.com/), [SherpaShare](https://www.sherpashare.com/), [ZenPayroll](https://zenpayroll.com/), [Quickbooks (Intuit)](http://quickbooks.intuit.com/), [Zenefits](http://www.zenefits.com/)
 
 _*I am a co-founder_
-
-
 
 #### Reality:
 
