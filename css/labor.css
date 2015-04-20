@@ -8,3 +8,7 @@ body {
 #back-button {
 	text-decoration: underline;
 }
+
+ol li {
+	margin-left: 2em;
+}
