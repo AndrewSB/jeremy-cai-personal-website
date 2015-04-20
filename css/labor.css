@@ -1,8 +1,6 @@
 body {
-	padding-top: 10%;
-	padding-bottom: 10%;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding: 10% 20% 10% 20%;
+	line-height: 160%;
 }
 
 #back-button {
