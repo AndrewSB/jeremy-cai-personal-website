@@ -13,6 +13,9 @@ layout: index
 			<a href="https://angel.co/cai" target="_blank">angel list</a>
 			<br>
 			<a href="mailto:jjeremycai@gmail.com" target="_blank">email</a>
+			<br>
+			<br>
+			<a href="/labor" target="_blank">The Modern Workforce</a>
 		</div>
 		<div class="col-md-4 title-section">
 			<h3><strong>life</strong><h3>

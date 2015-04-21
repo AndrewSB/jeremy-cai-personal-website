@@ -9,3 +9,8 @@ body {
 ol li {
 	margin-left: 4em;
 }
+
+#share-buttons {
+	margin-top: 44px;
+	float: none;
+}
