@@ -33,7 +33,7 @@ These problems are not limited in scope to the on-demand economy affect all part
 
 * _Churn_ - workforce attrition at all levels of the funnel (1 week after starting, 4 weeks after first job, etc) is shooting through the roof. The American workforce now has a huge number of great companies to work for with similar jobs with increasing bait packages should they switch. There are two proven methods of beating churn, and one solution that isn’t quite obvious:
 
-1.	[Proven] _Engagement:_ there are only four mediums - calls, emails, texts, push notifications - to progressively engage and retain workers on a mass scale. Companies have become smart about this, using certain language catered towards certain cohorts (i.e. "cleaners who haven’t worked a job in the past 10 days”). This is unsustainable, though, as eventually multichannel mass engagement still faces the problem of diminishing marginal returns. And so, companies begin to rely on…
+1.	[Proven] _Engagement:_ there are only four mediums - calls, emails, texts, push notifications - to progressively engage and retain workers on a mass scale. Companies have become smart about this, using certain language catered towards certain cohorts (i.e. "cleaners who haven’t worked a job in the past 10 days”). This is unsustainable, though, as eventually multichannel mass engagement still faces the problem of [diminishing marginal returns](http://andrewchen.co/the-law-of-shitty-clickthroughs/). And so, companies begin to rely on…
 
 2.	[Proven] _Increasing compensation:_ there are multiple ways to provide increased incentives for workers to stay at a company. Teams can provide packages unique to that company (Uber and Lyft both do this well), find ways to organize and simplify 1099 forms for contractors, or simply increase the base wage.
 
@@ -85,7 +85,11 @@ _*I am a co-founder_
 
 - Labor market is enormous and growing but still highly inefficient
 - New forces in labor market increase cost per hire
-- On-demand is not a trend and is here to stay. This is the future.
+- On-demand is not a trend and is here to stay.
 - On-demand / Collaborative Economy is not inherently opposed to Traditional Enterprises, rather their existence is mutually beneficial
 - Service Provider Startups are still expensive to start and more expensive to scale (and often only “theoretically profitable”)
-- Processes around building and scaling workforces is difficult given current toolsets, but software is emerging that solves these problems
+- Processes around building and scaling workforces are difficult given current toolsets, but software is emerging that solves these problems
+
+     
+
+**Thank you to [Andrew Breckenridge](http://twitter.com/Andrew_Breck) and [Tiffany Zhong](http://twitter.com/tzhongg) for help
