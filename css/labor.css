@@ -15,3 +15,7 @@ ol li {
 	float: none;
 	text-align: center;
 }
+
+#facebook-share-button {
+	vertical-align: top;
+}
