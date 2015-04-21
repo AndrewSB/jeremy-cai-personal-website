@@ -92,4 +92,4 @@ _*I am a co-founder_
 
      
 
-**Thank you to [Andrew Breckenridge](http://twitter.com/Andrew_Breck) and [Tiffany Zhong](http://twitter.com/tzhongg) for their help**
+*Thank you to [Andrew Breckenridge](http://twitter.com/Andrew_Breck) and [Tiffany Zhong](http://twitter.com/tzhongg) for their help*
